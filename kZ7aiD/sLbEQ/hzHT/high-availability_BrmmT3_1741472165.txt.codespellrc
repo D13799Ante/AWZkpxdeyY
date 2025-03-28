@@ -1,6 +1,5 @@
 [codespell]
 
-exclude-file =
   Cargo.lock,
   tests/tls/cert/key.pem,
 
